@@ -1,0 +1,32 @@
+.threeDimension {
+	display: block;
+	border: 1px solid;
+	border-color: #aaa #000 #000 #aaa;
+	width: 600px;
+	background: #fc0;
+	text-decoration: none;
+	text-align: center;
+	color: black;
+}
+
+a.threeDimension:active {
+	border-color: #000 #aaa #aaa #000;
+}
+
+.myTitle {
+    font-family: "Indie Flower", cursive;
+    text-align: justify inter-word;
+
+}
+
+.input {
+    opacity: 0.5;
+    border-bottom: grey solid 0.5px;
+    text-align: left;
+    padding-right: 100px
+    }
+#table{
+    table-layout: fixed;
+    width: 600px;
+}
+
